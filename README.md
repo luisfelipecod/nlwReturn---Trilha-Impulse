@@ -7,7 +7,7 @@
 
 ## Projeto
 
-<p>Desenvolver um Widget para receber feedbacks</p>
+<p>Um Widget para receber feedbacks</p>
 <br>
 
 
